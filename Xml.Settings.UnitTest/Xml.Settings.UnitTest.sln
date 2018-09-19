@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xml.Settings.UnitTest", "Xml.Settings.UnitTest.csproj", "{234084D3-6515-4CB5-8B6C-D72A05412E5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xml.Settings", "..\Xml.Settings.csproj", "{2BAF6D83-D450-472A-8F40-A824B39089DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{234084D3-6515-4CB5-8B6C-D72A05412E5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{234084D3-6515-4CB5-8B6C-D72A05412E5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{234084D3-6515-4CB5-8B6C-D72A05412E5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{234084D3-6515-4CB5-8B6C-D72A05412E5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BAF6D83-D450-472A-8F40-A824B39089DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BAF6D83-D450-472A-8F40-A824B39089DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BAF6D83-D450-472A-8F40-A824B39089DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BAF6D83-D450-472A-8F40-A824B39089DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
